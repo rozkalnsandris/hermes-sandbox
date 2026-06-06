@@ -1,0 +1,30 @@
+# Environment variables (NEVER commit .env files!)
+.env
+.env.local
+.env.*.local
+.env.production
+
+# Docker volumes (local data)
+volumes/
+.volumes/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Secrets (if accidentally created)
+secrets/
+.secrets/
+*.key
+*.pem
+*.crt
