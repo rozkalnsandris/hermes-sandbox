@@ -1,8 +1,8 @@
-# Hermes Sandbox 🚀
+# Hermes Sandbox
 
-Mani eksperimenti ar Hermes Agent.
+Experiments with my Hermes AI agent.
 
 ## Setup
-- RPi5 Docker
-- Telegram integrations
-- Cron automatizācija
+- Raspberry Pi 5, Docker
+- Telegram integration
+- Cron-based automation
